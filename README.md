@@ -70,7 +70,6 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  RegisterNumber: 24005994
  
 **Truthtable**
-TRUTHTABLE
 ![WhatsApp Image 2024-11-18 at 8 30 48 AM](https://github.com/user-attachments/assets/59c5898d-266b-45ad-824c-bd4f03171cc0)
 
 **RTL**
